@@ -1,4 +1,6 @@
 # WatchList
+[![Build status](https://ci.appveyor.com/api/projects/status/go7uy54ipf0yr99k?svg=true)](https://ci.appveyor.com/project/jktoiuhito/watchlist)
+[![CodeFactor](https://www.codefactor.io/repository/github/jktoiuhito/watchlist/badge)](https://www.codefactor.io/repository/github/jktoiuhito/watchlist)
 
 WatchList combines listing and selection of series with automatic backlog maintenance under an easy to use command-line interface, making the formalities of proposing and selecting series in eg. movie-nights and anime-circle meetings a breeze. It can also be used for personal series backlog-management.
 
